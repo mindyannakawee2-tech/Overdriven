@@ -14,4 +14,4 @@ You'll be playing as Rhythia, a girl who wants to know the secret of the ***COLA
 ***Xbox Controller*** L, Y, R, X, A, B, joyPad up, joyPad down, joyPad left, joyPad right [Not Available Yet]
 
 ## Basic Rhythm Game Prototype
-A simple playable **Parappa-style rhythm prototype** is now included.
+A simple playable **Parappa-style rhythm prototype** is now on progress.
